@@ -1,7 +1,7 @@
 # discrete-math-boolean-functions
 discrete mathematics, course 2
 
-There were 12 tasks that needed to be done (available in russian). The "Игра" (or "Game"; tasks: 4, 5, 6, 7, 10, 11) means that not only code itself needed to be written but with some kind of interface (.exe files).
+There were 12 tasks that needed to be done (available in russian). The "Игра" (or "Game"; tasks: 4, 5, 6, 7, 10, 11) means that not only code itself needed to be written but with some kind of interface.
 
 The tasks:
 1. На вход число n, на выход функция от n аргументов.
